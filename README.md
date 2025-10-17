@@ -3,7 +3,7 @@
 <h1 align="center">🔥 KAMEHAMEHA! I'm <span style="color:#FF6F00;">Ragul</span> 🐉</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/11bXQwA4aY5E2I/giphy.gif" width="250px" alt="Goku charging">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHliczZ0dnczeXI0NjFlZXFscWRubXRoa2ZzMGFkeTBnd2U1enUxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fD1QmD1w0RVV74psX/giphy.gif" width="250px" alt="Goku charging">
 </p>
 
 ---
@@ -96,7 +96,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SYIZN2lRf6Pqg/giphy.gif" width="120px">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFuOW42cWk2NXY4dmhsemxqbHhhZ3hzdzFhbmlnbjNpM291amhnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/akAkj2L5pgA5a/giphy.gif" width="120px">
 </p>
 
 <h3 align="center">"Keep training. Keep coding. Keep pushing limits." 🌀</h3>
