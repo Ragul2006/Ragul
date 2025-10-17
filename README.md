@@ -21,18 +21,14 @@
 ### 🧠 My Power Levels (Tech Stack)
 
 #### 🐉 Programming Languages
-<p align="left">
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
   [![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
   [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.oracle.com/java/)
   [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
   [![GDscript](https://img.shields.io/badge/GDscript-478CBF?logo=godot-engine&logoColor=white)](https://godotengine.org)
-</p>
-
 ---
 
 #### ⚙️ Tools I Use
-<p align="left">
   [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
   [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)](https://developer.android.com/studio)
   [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unreal-engine&logoColor=white)](https://www.unrealengine.com/)
@@ -43,15 +39,11 @@
   [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
   [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-</p>
-
 ---
 
 #### 🧩 Frameworks
-<p align="left">
   [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
   [![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
-</p>
 
 ---
 
@@ -87,16 +79,16 @@
   <a href="https://github.com/ragul" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:ragul@example.com">
+  <a href="vetriragul0@gmail.com">
     <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ragul" target="_blank">
+  <a href="https://www.linkedin.com/in/ragul-v-5a5aa221b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/ragul" target="_blank">
+  <a href="https://www.instagram.com/tnr_king_18?igsh=dmVuMWppdWNic3Ry" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://facebook.com/ragul" target="_blank">
+  <a href="https://www.facebook.com/ragul017" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
