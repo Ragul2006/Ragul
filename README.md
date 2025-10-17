@@ -1,9 +1,9 @@
 <!-- GOKU THEME README ⚡ BY TNR KING -->
 
-<h1 align="center">🔥 KAMEHAMEHA! I'm <span style="color:#FF6F00;">TNR KING</span> 🐉</h1>
+<h1 align="center">🔥 KAMEHAMEHA! I'm <span style="color:#FF6F00;">Ragul</span> 🐉</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/11bXQwA4aY5E2I/giphy.gif" width="250px" alt="Goku charging">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJneTNwczhqODRucGk2ODZlNnUzdHRhNjNwZHlvd3VydTZlMXJsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/osm7o1nCvv7pR7AyGO/giphy.gif" width="250px" alt="Goku charging">
 </p>
 
 ---
